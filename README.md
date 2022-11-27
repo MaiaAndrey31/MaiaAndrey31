@@ -1,8 +1,11 @@
 ### Hi there 🙋🏼‍♂️
 
 Meu nome é Andrey Maia, sou Desenvolvedor Front-end 👨‍💻<br>
-atualmente realizando projetos em HTML e CSS. <br>
-iniciando no mundo do JavaScript e React.<br>
+atualmente realizando projetos em:<br>
+ -HTML :white_check_mark: <br>
+ -CSS. :white_check_mark: <br>
+ -JavaScript :white_check_mark:  
+ -React :white_check_mark: <br>
 Em transição de carreira, aprofundando os conhecimentos<br>
 na Dev Club com Rodolfo Mori. 🚀 <br>
 
