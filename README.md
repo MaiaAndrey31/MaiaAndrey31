@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 🙋🏼‍♂️
+
+Meu nome é Andrey Maia, sou Desenvolvedor Front-end 👨‍💻<br>
+atualmente realizando projetos em HTML e CSS. <br>
+iniciando no mundo do JavaScript e React.<br>
+Em transição de carreira, aprofundando os conhecimentos<br>
+na Dev Club com Rodolfo Mori. 🚀 <br>
+
+Linkedin: https://www.linkedin.com/in/andrey-maia-85a0b7243/ <br>
+Instagram: https://www.instagram.com/oandreymaia/
+
 
 <!--
 **MaiaAndrey31/MaiaAndrey31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
