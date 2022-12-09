@@ -12,19 +12,24 @@
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=30px>  
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height=30px> 
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height=30px> 
- </div>
+</div>
  <br><br>
 <b> Aprofundando os conhecimentos<br>
 na Dev Club com Rodolfo Mori. 🚀</b> <br>
-<br>
+
+   <a href=https://rodolfomori.com.br/recado-importante/><img src=https://rodolfomori.com.br/wp-content/webp-express/webp-images/uploads/2022/02/LOGO_1-768x768.png.webp width=80px height=80px></a>
+   
 <b> Minhas redes Sociais.</b>
 
-<a href="https://www.instagram.com/oandreymaia/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=40px></a>
-<a href="https://www.linkedin.com/in/andrey-maia-85a0b7243/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=40px><br>
+<a href="https://www.instagram.com/oandreymaia/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=25px></a>
+<a href="https://www.linkedin.com/in/andrey-maia-85a0b7243/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25px><br>
+ 
  <br>
- <img src="https://github-readme-stats.vercel.app/api?username=MaiaAndrey31&theme=blue-green"><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaAndrey31&theme=blue-green">
-<div>
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=MaiaAndrey31&theme=blue-green">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaAndrey31&theme=blue-green">
+    </div>
+        <div>
     <img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" />
     <img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" />
     <img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" />
