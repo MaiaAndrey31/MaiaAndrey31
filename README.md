@@ -1,3 +1,6 @@
+<img src =https://github.com/MaiaAndrey31/DSFCSS/blob/master/img/WhatsApp-Video-2022-12-08-at-16.47.31.gif>
+
+
 ![](https://img.shields.io/github/followers/MaiaAndrey31?logo=github&style=for-the-badge) ![](https://img.shields.io/github/stars/MaiaAndrey31?logo=github&style=for-the-badge)
 
 ### Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" />, Meu nome é Andrey Maia, tenho 37 anos. Desenvolvedor web focado em Front-end 👨‍💻<br>
