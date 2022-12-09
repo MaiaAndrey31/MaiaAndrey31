@@ -1,4 +1,4 @@
-<img src =https://github.com/MaiaAndrey31/DSFCSS/blob/master/img/WhatsApp-Video-2022-12-08-at-16.47.31.gif>
+<img src =https://github.com/MaiaAndrey31/DSFCSS/blob/master/img/WhatsApp-Video-2022-12-08-at-16.47.31.gif height=400px width=1210px>
 
 
 ![](https://img.shields.io/github/followers/MaiaAndrey31?logo=github&style=for-the-badge) ![](https://img.shields.io/github/stars/MaiaAndrey31?logo=github&style=for-the-badge)
@@ -7,11 +7,11 @@
 ## Atualmente realizando projetos utilizando as seguintes tecnologias:<br>
 <br>
 <div>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height=50px>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height=50px>  
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=50px>  
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height=50px> 
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height=50px> 
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height=30px>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height=30px>  
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=30px>  
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height=30px> 
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height=30px> 
  </div>
  <br><br>
 <b> Em transição de carreira, aprofundando os conhecimentos<br>
