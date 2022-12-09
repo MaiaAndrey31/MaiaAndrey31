@@ -3,8 +3,8 @@
 
 ![](https://img.shields.io/github/followers/MaiaAndrey31?logo=github&style=for-the-badge) ![](https://img.shields.io/github/stars/MaiaAndrey31?logo=github&style=for-the-badge)
 
-### Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" />, Meu nome é Andrey Maia, tenho 37 anos. Desenvolvedor web focado em Front-end 👨‍💻<br>
-## Atualmente realizando projetos como freelancer e com conhecimento aplicado de desenvolvimento em:<br>
+Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" />, Meu nome é Andrey Maia, tenho 37 anos. Desenvolvedor web focado em Front-end 👨‍💻<br>
+ Atualmente realizando projetos como freelancer e com conhecimento aplicado de desenvolvimento em:<br>
 <br>
 <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height=30px>
