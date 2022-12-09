@@ -1,4 +1,4 @@
-<img src =https://github.com/MaiaAndrey31/DSFCSS/blob/master/img/WhatsApp-Video-2022-12-08-at-16.47.31.gif height=400px width=1210px>
+<img src =https://github.com/MaiaAndrey31/DSFCSS/blob/master/img/WhatsApp-Video-2022-12-08-at-16.47.31.gif height=300px width=1080px>
 
 
 ![](https://img.shields.io/github/followers/MaiaAndrey31?logo=github&style=for-the-badge) ![](https://img.shields.io/github/stars/MaiaAndrey31?logo=github&style=for-the-badge)
