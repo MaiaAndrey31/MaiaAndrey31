@@ -3,8 +3,35 @@
 
 ![](https://img.shields.io/github/followers/MaiaAndrey31?logo=github&style=for-the-badge) ![](https://img.shields.io/github/stars/MaiaAndrey31?logo=github&style=for-the-badge)
 
-Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" />, Meu nome é Andrey Maia, tenho 37 anos. Desenvolvedor web focado em Front-end 👨‍💻<br>
- Atualmente realizando projetos como freelancer e com conhecimento aplicado de desenvolvimento em:<br>
+Olá, Meu nome é Andrey Maia, tenho 37 anos.<br>
+<br>
+Desenvolvedor web focado em Front-end 👨‍💻<br>
+<br>
+ O meu objetivo é fornecer um serviço de qualidade, dando apoio aos profissionais do setor, sendo que as minhas competências coincidem com as qualificações necessárias para o desempenho desta função.
+
+A minha vivência generalista garantiu-me competências múltiplas, incluindo resolver no imediato eventuais problemas que surjam.
+
+Estou entusiasmado e em busca de novos desafios, adoraria ter a oportunidade de contribuir para a excelência da sua empresa, através de um eficiente apoio profissional.
+
+Na minha atual posição, mantenho um ambiente laboral excepcionalmente funcional, o que refletirá na qualidade do trabalho realizado. Eu tenho uma apetência natural para resolução de problemas críticos e trabalho bem, individualmente ou inserido num grupo de trabalho.
+
+Possuo fácil aprendizado, adaptação, flexibilidade e dinamismo. Capacidade para administrar um volume grande de tarefas, definindo prioridades. Facilidade no trabalho em equipe, bem como no cumprimento de metas e prazos.<br>
+<br>
+Sistemas/Softwares:<br>
+● HTML.<br>
+● CSS.<br>
+● JavaScript.<br>
+● NodeJs.<br>
+● React.<br>
+● Styled Components.<br>
+● React Native.<br>
+● SQL.<br>
+● MongoDB.<br>
+● Docker.<br>
+● TypeScript.<br>
+● API Rest.<br>
+● JSON.<br>
+● Git.<br>
 <br>
 <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height=30px>
@@ -15,7 +42,7 @@ Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/
 </div>
  <br><br>
 <b> Aprofundando os conhecimentos<br>
-na Dev Club com Rodolfo Mori. 🚀</b> <br>
+no Dev Club com Rodolfo Mori. 🚀</b> <br>
 
    <a href=https://rodolfomori.com.br/recado-importante/><img src=https://rodolfomori.com.br/wp-content/webp-express/webp-images/uploads/2022/02/LOGO_1-768x768.png.webp width=80px height=80px></a>
    
