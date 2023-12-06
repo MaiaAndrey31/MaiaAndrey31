@@ -3,7 +3,7 @@
 
 ![](https://img.shields.io/github/followers/MaiaAndrey31?logo=github&style=for-the-badge) ![](https://img.shields.io/github/stars/MaiaAndrey31?logo=github&style=for-the-badge)
 
-Olá, Meu nome é Andrey Maia, tenho 37 anos.<br>
+Olá, Meu nome é Andrey Maia, tenho 38 anos.<br>
 <br>
 Desenvolvedor web focado em Front-end 👨‍💻<br>
 <br>
@@ -15,7 +15,7 @@ Estou entusiasmado e em busca de novos desafios, adoraria ter a oportunidade de 
 
 Na minha atual posição, mantenho um ambiente laboral excepcionalmente funcional, o que refletirá na qualidade do trabalho realizado. Eu tenho uma apetência natural para resolução de problemas críticos e trabalho bem, individualmente ou inserido num grupo de trabalho.
 
-Possuo fácil aprendizado, adaptação, flexibilidade e dinamismo. Capacidade para administrar um volume grande de tarefas, definindo prioridades. Facilidade no trabalho em equipe, bem como no cumprimento de metas e prazos.<br>
+Possuo fácil aprendizado, adaptação, flexibilidade e dinamismo. Capacidade para administrar um volume grande de tarefas, definindo prioridades. Facilidade no trabalho em equipe, bem como no cumprimento de metas e prazos.](https://github.com/MaiaAndrey31)<br>
 <br>
 Sistemas/Softwares:<br>
 ● HTML.<br>
