@@ -36,6 +36,7 @@ Sou movido pela curiosidade e pela busca por soluções que realmente fazem a di
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
 </div>
+
 ---
 
 ## 💡 Projetos em Destaque
