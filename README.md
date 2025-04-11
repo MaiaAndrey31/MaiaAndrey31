@@ -1,110 +1,131 @@
-![](https://img.shields.io/github/followers/MaiaAndrey31?logo=github&style=for-the-badge) ![](https://img.shields.io/github/stars/MaiaAndrey31?logo=github&style=for-the-badge)
+![](https://img.shields.io/github/followers/MaiaAndrey31?logo=github&style=for-the-badge)
+![](https://img.shields.io/github/stars/MaiaAndrey31?logo=github&style=for-the-badge)
 
-Olá, Meu nome é Andrey Maia, tenho 38 anos.<br>
-<br>
-Desenvolvedor Full Stack 👨‍💻<br>
-<br>
-Com uma abordagem ágil na resolução de problemas, estou sempre em busca de novos desafios para contribuir significativamente para o crescimento das empresas. Minha capacidade de trabalho em equipe, gerenciamento de múltiplas tarefas e aprendizado rápido me tornam um ativo valioso para equipes dinâmicas.
+# 👋 Olá! Eu sou o Andrey Maia
 
-Comunicativo, autodidata, dinâmico e proativo, com espírito de equipe. Acredito no poder da aprendizagem mútua, pois ninguém é tão experiente que não tenha o que aprender ou tão inexperiente que não possa ensinar algo valioso.
+### 👨‍💻 Desenvolvedor Full Stack | HTML | CSS | JavaScript | React.js | Node.js
 
-Meu histórico inclui trabalhos voluntários que enriqueceram minha experiência. Acredito na 'Corrente do Bem' e seu impacto positivo.
+---
 
-Principais competências comportamentais: Gestão de Equipes, Responsabilidade, Comunicação e Fortes Valores Éticos.
+🔧 Especialista no desenvolvimento de **aplicações modernas, escaláveis e eficientes**, com foco em entregar **experiências de usuário incríveis** e **otimização de sistemas**.
 
-Minha paixão pela tecnologia e minha experiência em HTML, CSS, JavaScript, NodeJs, Java, React, Styled Components, React Native, SQL, MongoDB, Docker, TypeScript, Rest API, JSON e Git me permitem criar soluções práticas e eficientes em projetos de pequeno e médio porte. Estou comprometido com a excelência e pronto para enfrentar os desafios do mundo em desenvolvimento.
-(https://github.com/MaiaAndrey31)<br>
-<br>
-Sistemas/Softwares:<br>
+Sou movido pela curiosidade e pela busca por soluções que realmente fazem a diferença — tanto na performance dos sistemas quanto no dia a dia dos usuários.
+
+---
+
+## 🚀 Sobre mim
+
+- 🎯 Foco em **resolução de problemas complexos**
+- 🌐 Experiência com **integração de APIs REST**
+- 💻 Conhecimentos sólidos em **ReactJs, JavaScript, TypeScript, Docker, React Native, Node.js, Express, PostgreSQL e MongoDB**
+- 📈 Proativo em aplicar boas práticas que aumentam a **produtividade e escalabilidade**
+- 👥 Apoiador de comunidades tech e mentor de desenvolvedores iniciantes
+
+---
+
+## 💼 Experiência Profissional
+
+**🔹 Desenvolvedor Web – Phoenix Publicidade**  
+_São Paulo – 04/2024 a 09/2024_  
+> Criação de páginas responsivas com React.js e Styled Components.  
+> Otimização de APIs REST e melhoria de performance (25% mais rápido).  
+> Foco na usabilidade, com resultados diretos em retenção de clientes.
+
+**🔹 Desenvolvedor Full Stack – Simplify Tech**  
+_São Paulo – 01/2023 a 01/2024_  
+> Desenvolvimento completo de soluções internas com React.js e Node.js.  
+> Gerenciamento de bases de dados PostgreSQL e MongoDB.  
+> Otimizações que aumentaram a escalabilidade dos sistemas e produtividade da equipe.
+
+**🔹 Front-End Freelancer**  
+_07/2022 a 01/2023_  
+> Desenvolvimento de aplicações web customizadas.  
+> Entregas de alta qualidade resultando em maior fidelização dos clientes.
+
+---
+
+## 💡 Projetos em Destaque
+
+**🎧 Web Rádio**  
+> Plataforma de transmissão online com HTML, CSS, JS – aumentou engajamento em 20%.
+
+**🍔 MonsterBurguer**  
+> Sistema de pedidos online com React, Node.js, PostgreSQL, MongoDB e Docker.  
+> Redução de tempo de espera dos clientes e melhoria operacional de 30%.
+
+**⚖️ Site Debora Morrone (Advocacia)**  
+> Site institucional com React + Vite – aumento de 40% em novos contatos.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="30" alt="eslint logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="30" alt="sequelize logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" alt="yarn logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" height="30" alt="React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
 </div>
 
+---
 
- <br><br>
-<b> Aprofundando os conhecimentos<br>
-como desenvolvedor Full Stack no Dev Club. 🚀</b> <br>
+## 📘 Formação
 
-   <a href=https://rodolfomori.com.br/recado-importante/><img src=https://rodolfomori.com.br/wp-content/webp-express/webp-images/uploads/2022/02/LOGO_1-768x768.png.webp width=80px height=80px></a>
-   
-<b> Minhas redes Sociais.</b>
+**Desenvolvimento Full Stack** – DevClub (2022–2024)  
+_Certificação reconhecida pelo MEC_
+
+**Desenvolvimento em Java** – Udemy (2023)  
+_Com foco em POO e estrutura de dados_
+
+---
+
+## 🌍 Idiomas
+
+- Inglês Técnico – leitura e escrita voltadas à documentação
+
+---
+
+## 💬 Contato
+
 <div align="left">
   <a href="https://www.instagram.com/oandreymaia/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
   <a href="https://www.linkedin.com/in/maia-andrey/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
-  <a href="maiaandrey31@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  <a href="mailto:maiaandrey31@outlook.com">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
 </div>
-<br>
 
- <br>
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=MaiaAndrey31&theme=blue-green">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaAndrey31&theme=blue-green">
-    </div>
+---
+
+## 📊 GitHub Stats
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=MaiaAndrey31&theme=blue-green&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaAndrey31&theme=blue-green&layout=compact" />
+</div>
+
+
+## 📄 Baixe meu Currículo
+
+[![Download CV](https://img.shields.io/static/v1?label=Download&message=Currículo&color=blue&style=for-the-badge&logo=readthedocs)](./CV_AndreyMaia.pdf)
+
      <!--
 **MaiaAndrey31/MaiaAndrey31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[CV_AndreyMaia_FullStack_Atualizado.pdf](https://github.com/user-attachments/files/19711673/CV_AndreyMaia_FullStack_Atualizado.pdf)
+
+---
+
+
