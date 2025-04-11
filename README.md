@@ -23,25 +23,19 @@ Sou movido pela curiosidade e pela busca por soluções que realmente fazem a di
 
 ---
 
-## 💼 Experiência Profissional
+## 🛠️ Tecnologias & Ferramentas
 
-**🔹 Desenvolvedor Web – Phoenix Publicidade**  
-_São Paulo – 04/2024 a 09/2024_  
-> Criação de páginas responsivas com React.js e Styled Components.  
-> Otimização de APIs REST e melhoria de performance (25% mais rápido).  
-> Foco na usabilidade, com resultados diretos em retenção de clientes.
-
-**🔹 Desenvolvedor Full Stack – Simplify Tech**  
-_São Paulo – 01/2023 a 01/2024_  
-> Desenvolvimento completo de soluções internas com React.js e Node.js.  
-> Gerenciamento de bases de dados PostgreSQL e MongoDB.  
-> Otimizações que aumentaram a escalabilidade dos sistemas e produtividade da equipe.
-
-**🔹 Front-End Freelancer**  
-_07/2022 a 01/2023_  
-> Desenvolvimento de aplicações web customizadas.  
-> Entregas de alta qualidade resultando em maior fidelização dos clientes.
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
+</div>
 ---
 
 ## 💡 Projetos em Destaque
