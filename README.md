@@ -95,14 +95,15 @@ _Com foco em POO e estrutura de dados_
 
 ## 📄 Baixe meu Currículo
 
-[![Download CV](https://img.shields.io/static/v1?label=Download&message=Currículo&color=blue&style=for-the-badge&logo=readthedocs)](./CV_AndreyMaia.pdf)
+[![Download CV](https://img.shields.io/static/v1?label=Download&message=Currículo&color=blue&style=for-the-badge&logo=readthedocs)](./Andrey.Maia.CV0525.pdf)
 
-     <!--
+
 **MaiaAndrey31/MaiaAndrey31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-[CV_AndreyMaia_FullStack_Atualizado.pdf](https://github.com/user-attachments/files/19711673/CV_AndreyMaia_FullStack_Atualizado.pdf)
 
----
+
+---[Andrey Maia CV0525.pdf](https://github.com/user-attachments/files/20234357/Andrey.Maia.CV0525.pdf)
+
 
 
