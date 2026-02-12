@@ -110,15 +110,6 @@ Inglês técnico para leitura de documentação e comunicação profissional.
 
 ---
 
-## 📊 GitHub Stats
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaiaAndrey31&show_icons=true&theme=blue-green"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaAndrey31&layout=compact&theme=blue-green"/>
-</div>
-
----
-
 ## 📄 Baixe meu Currículo
 
 [![Download CV](https://img.shields.io/static/v1?label=Download&message=Currículo&color=blue&style=for-the-badge&logo=readthedocs)](./Maia-C12-PT25.pdf)
