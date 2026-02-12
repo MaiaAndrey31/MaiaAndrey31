@@ -113,8 +113,8 @@ Inglês técnico para leitura de documentação e comunicação profissional.
 ## 📊 GitHub Stats
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=MaiaAndrey31&theme=blue-green&show_icons=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaAndrey31&theme=blue-green&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaiaAndrey31&show_icons=true&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaAndrey31&layout=compact&theme=blue-green"/>
 </div>
 
 ---
