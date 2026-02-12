@@ -1,136 +1,158 @@
 
-![](https://img.shields.io/github/followers/MaiaAndrey31?logo=github&style=for-the-badge)
-![](https://img.shields.io/github/stars/MaiaAndrey31?logo=github&style=for-the-badge)
-
-# 👋 Fala, eu sou o Andrey Maia
-
-### 💻 Full Stack Developer • AI Builder • Automation Engineer
-
-Transformo ideias em produtos digitais que funcionam no mundo real.
-
-Não sou só um dev de código.  
-Sou um dev de solução.
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=1000&lines=Fala,+eu+sou+Andrey+Maia;Full+Stack+Developer;AI+%26+Automation+Builder;Transformando+ideias+em+produtos+reais;Código+que+gera+resultado" />
+</p>
 
 ---
 
-## 🧠 Quem eu sou na prática
-
-Sou Desenvolvedor Full Stack focado em:
-
-🚀 Performance  
-🧩 Produto digital bem pensado  
-🤖 IA aplicada a negócios  
-⚙️ Automação de processos  
-📈 Soluções que geram resultado real
-
-Trabalho principalmente com React, Node.js e TypeScript, mas meu foco nunca foi só stack — é impacto.
-
-> Tecnologia é meio. Resultado é fim.
+<p align="center">
+  <img src="https://img.shields.io/github/followers/MaiaAndrey31?label=Followers&style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/stars/MaiaAndrey31?label=Stars&style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Product%20Mindset-ON-success?style=for-the-badge"/>
+</p>
 
 ---
 
-## ⚡ O que eu faço de melhor
+# 👋 Quem é o Andrey?
 
-✔️ Construo sistemas rápidos, escaláveis e usáveis  
-✔️ Integro APIs e conecto sistemas  
-✔️ Crio agentes de IA para automatizar atendimento e processos  
-✔️ Uso n8n e OpenAI pra economizar horas de trabalho manual  
-✔️ Estruturo produtos pensando em UX e negócio  
-✔️ Ajudo devs iniciantes a evoluírem na carreira
+Sou dev Full Stack que gosta de construir **soluções reais**.
 
----
+Não curto código por código.  
+Curto código que:
 
-## 📈 Impacto que já gerei
+✔️ Resolve problema  
+✔️ Economiza tempo  
+✔️ Gera dinheiro  
+✔️ Escala negócio  
 
-✅ +40% em vendas com automações inteligentes  
-✅ +35% de eficiência operacional em plataforma interna  
-✅ -65% no tempo de deploy com CI/CD  
-✅ Sistemas mais rápidos e leves  
-✅ Processos que antes eram manuais hoje rodam sozinhos
+Meu foco é **produto + performance + automação + IA aplicada**.
+
+> Stack é ferramenta. Resultado é o objetivo.
 
 ---
 
-## 🛠️ Stack Principal
+# 🧠 O que faço bem
 
-### Front-end
+🚀 Sistemas web rápidos e escaláveis  
+🔗 Integração entre APIs e plataformas  
+🤖 Agentes de IA para atendimento e operação  
+⚙️ Automações com n8n  
+📊 Produtos orientados a negócio  
+👥 Mentoria e apoio a devs iniciantes
+
+---
+
+# 📈 Impacto real
+
+✅ +40% vendas com automações  
+✅ +35% eficiência operacional  
+✅ -65% tempo de deploy  
+✅ Processos manuais virando automáticos  
+✅ UX melhorando conversão
+
+---
+
+# 🛠️ Tech Stack
+
+### Frontend
 React • TypeScript • Vite  
 Tailwind • Styled Components  
 React Query • Context API  
-Design Systems • PWA • SPA
+Design Systems • PWA
 
-### Back-end
+### Backend
 Node.js • Express  
-REST APIs  
-PostgreSQL • MongoDB • Prisma  
-Docker • Clean Architecture
+PostgreSQL • MongoDB  
+Prisma • Docker  
+Clean Architecture
 
 ### IA & Automação
 OpenAI API  
-Agentes de IA  
+AI Agents  
 n8n  
 Prompt Engineering  
-Integrações entre sistemas
+System Integrations
 
 ---
 
-## 🚀 Projetos que representam meu trabalho
+# 🚀 Projetos Destaque
 
-🎯 **Plataforma de Premiações DevClub**  
-Sistema com autenticação, painel admin, IA e automações internas.
+🎯 Plataforma de Premiações DevClub  
+(Admin + Auth + IA + automações)
 
-⚖️ **Site jurídico Débora Morrone**  
-SEO técnico + estrutura de conversão.
+⚖️ Site Jurídico Débora Morrone  
+(SEO + conversão)
 
-🎭 **Site oficial Klaus Duarte**  
-Performance, presença digital e UX.
+🎭 Site Klaus Duarte  
+(Presença digital + performance)
 
-🏫 **Clube Educacional Beréia**  
-Aplicação web com múltiplos deploys e otimizações.
-
----
-
-## 🎯 Atualmente focado em
-
-- IA aplicada a negócios  
-- Automação de processos com n8n  
-- Produtos SaaS  
-- Sistemas de agendamento e gestão  
-- UX que converte
+🏫 Clube Educacional Beréia  
+(Web app otimizada)
 
 ---
 
-## 🌱 Em evolução constante
+# 🔭 Currently Building
 
-🎓 Engenharia de Software  
-📚 Estudo contínuo de IA e automação  
-🌍 Inglês técnico para documentação e projetos
-
----
-
-## 🤝 Vamos conversar?
-
-Se você quer trocar ideia sobre:
-
-• Produto digital  
-• IA e automação  
-• Freelancers  
-• Projetos SaaS  
-• Carreira dev  
-
-Bora conversar.
-
-📩 Email: maiaandrey31@outlook.com  
-💼 LinkedIn: https://www.linkedin.com/in/maia-andrey/  
-🌐 Portfólio: https://portfolio-andrey-maia.netlify.app/
+🧠 Sistemas com IA aplicada  
+⚙️ Automações para empresas  
+📅 Plataformas de agendamento  
+💳 Sistemas com pagamento integrado  
+📊 Dashboards inteligentes
 
 ---
 
+# 🌍 Open To
 
-## 📄 Currículo
+✔️ Freelancers  
+✔️ Projetos SaaS  
+✔️ Produtos digitais  
+✔️ Oportunidades internacionais  
+✔️ Parcerias tech
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MaiaAndrey31&show_icons=true&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaAndrey31&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MaiaAndrey31&theme=tokyonight"/>
+</p>
+
+---
+
+# 🐍 Snake Contribution
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 📄 Currículo
+
 [![Download CV](https://img.shields.io/static/v1?label=Download&message=Currículo&color=blue&style=for-the-badge&logo=readthedocs)](./Maia-C12-PT25.pdf)
 
 ---[Maia-C12-PT25.pdf](https://github.com/user-attachments/files/25268255/Maia-C12-PT25.pdf)
 
 
+
+# 🤝 Bora conectar?
+
+📩 Email: maiaandrey31@outlook.com  
+💼 LinkedIn: https://www.linkedin.com/in/maiaandrey/  
+
+---
+
+⭐ Se curtir meus projetos, deixa uma estrela — isso ajuda muito!
 
 
