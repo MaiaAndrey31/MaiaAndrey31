@@ -1,28 +1,4 @@
-Perfeito — agora a gente vai fazer seu README com identidade forte, sua cara, seu momento de carreira e seu posicionamento real.
 
-Não só “dev que sabe stack”, mas:
-
-✅ Dev que constrói produto
-✅ Dev de IA e automação
-✅ Dev que pensa em negócio
-✅ Mentor e construtor de comunidade
-✅ Builder de soluções reais (não projetinho tutorial)
-
-Vou te entregar um README:
-
-Mais humano
-
-Com branding pessoal
-
-Focado em impacto
-
-Diferenciado de 90% dos perfis
-
-Pronto pra recrutador gringo e cliente ver valor
-
-Copiar e colar
-
-🔥 README NOVO — ANDREY MAIA
 ![](https://img.shields.io/github/followers/MaiaAndrey31?logo=github&style=for-the-badge)
 ![](https://img.shields.io/github/stars/MaiaAndrey31?logo=github&style=for-the-badge)
 
